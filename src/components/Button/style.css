@@ -1,0 +1,8 @@
+.btn_events {
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.btn_events i {
+  font-size: medium !important;
+}
